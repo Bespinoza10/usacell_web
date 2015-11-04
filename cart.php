@@ -147,9 +147,6 @@
 								<td class="cart_total_value">$167.99 </td>
 								<td class="cart_empty_footer" colspan="1"></td>
 								<td class="cart_total_value">
-									<div class="add-wishlist">
-										<input type="button" value="Add to wishlist" />
-									</div>
 								</td>
 							</tr>
 						</tbody>
@@ -161,7 +158,6 @@
 				<div class="col-lg-12 col-md-12">
 					<div class="convert-cart">
 						<div class="wishlist-cart">
-							<input type="button" value="Convert cart in wishlist" />
 							<input type="button" value="Proceed to checkout" />
 						</div>
 					</div>
@@ -172,98 +168,7 @@
 	<!-- checkout-area end-->
 
 	<!-- footer start -->
-	<footer>
-		<!-- footer-top-area start -->
-		<div class="footer-top-area">
-			<div class="container">
-				<div class="row">
-					<!-- newsletter start -->
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div class="newsletter">
-							<h3>Email Newsletters:</h3>
-							<form action="#">
-								<input type="text" placeholder="Email Address"/>
-								<button type="submit"><i class="fa fa-envelope"></i></button>
-								<a href="#">Privacy Policy</a>
-							</form>
-						</div>
-					</div>
-					<!-- newsletter end -->
-					<!-- footer-contact start -->
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div class="footer-contact">
-							<ul>
-								<li>
-									<span>Address:</span>
-									<span>792 South Park Avenue,<br>
-									Door 6 Wonderland, CA<br>
-									94107, Austrila</span>
-								</li>
-								<li>
-									<span>Phone:</span>
-									<span>
-										+330 875369227 - Office<br>
-										+330 355563114 - Fax
-									</span>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<!-- footer-contact end -->
-					<!-- footer-contact start -->
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div class="footer-contact">
-							<ul>
-								<li class="cc-space">
-									<span>Email:</span>
-									<span><a href="#">support@sitename.com</a> <br />
-									<a href="#">info@sitename.com</a></span>
-									<div class="su-spacer"></div>
-								</li>
-								<li>
-									<span>Follow Us:</span>
-									<span>
-										<a href="#"><i class="fa fa-facebook"></i></a>
-										<a href="#"><i class="fa fa-linkedin-square"></i></a>
-										<a href="#"><i class="fa fa-google-plus"></i></a>
-										<a href="#"><i class="fa fa-twitter"></i></a>
-									</span>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<!-- footer-contact end -->
-				</div>
-			</div>
-		</div>
-		<!-- footer-top-area end -->
-		<!-- footer-bottom-area start -->
-		<div class="footer-bottom-area">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 col-sm-12 col-md-6">
-						<div class="copyright">
-							<p>COPYRIGHT © 2015 ALL RIGHT RESERVED BY <a href="#" target="_blank">BootExperts</a></p>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-12 col-md-6">
-						<div class="footer-menu">
-							<nav>
-								<ul>
-									<li><a href="#">HOME</a></li>
-									<li><a href="#">BLOG</a></li>
-									<li><a href="#">PORTFOLIO</a></li>
-									<li><a href="#">SHOP</a></li>
-									<li><a href="#">CONTACT</a></li>
-								</ul>
-							</nav>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- footer-bottom-area end -->
-	</footer>
+	<?php include('SECTIONS/footer.php')?>
 	<!-- footer end -->
 
 		<!-- JS -->
