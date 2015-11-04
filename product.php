@@ -2,18 +2,18 @@
 <html class="no-js" lang="">
     <head>
 		<!-- Basic page needs
-		============================================ -->	
+		============================================ -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Product - Intensy</title>
         <meta name="description" content="">
-		
+
 		<!-- Mobile specific metas
-		============================================ -->		
+		============================================ -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		
+
 		<!-- Fonts
-		============================================ -->		
+		============================================ -->
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
 
@@ -22,53 +22,54 @@
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 
 		<!-- CSS  -->
-		
+
 		<!-- Bootstrap CSS
 		============================================ -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
-		
+
 		<!-- font-awesome CSS
 		============================================ -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
-		
+
 		<!-- owl.carousel CSS
 		============================================ -->
         <link rel="stylesheet" href="css/owl.carousel.css">
-		
+
 		<!-- animate CSS
 		============================================ -->
         <link rel="stylesheet" href="css/animate.css">
-		
+
 		<!-- fancybox CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">			
-		
+        <link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">
+
 		<!-- meanmenu CSS
-		============================================ -->		
+		============================================ -->
         <link rel="stylesheet" href="css/meanmenu.min.css">
-		
+
 		<!-- RS slider CSS
 		============================================ -->
-		<link rel="stylesheet" type="text/css" href="lib/rs-plugin/css/settings.css" media="screen" />	
-		
+		<link rel="stylesheet" type="text/css" href="lib/rs-plugin/css/settings.css" media="screen" />
+
 		<!-- normalize CSS
-		============================================ -->		
+		============================================ -->
         <link rel="stylesheet" href="css/normalize.css">
-		
+
 		<!-- main CSS
-		============================================ -->		
+		============================================ -->
         <link rel="stylesheet" href="css/main.css">
-		
+
 		<!-- style CSS
-		============================================ -->			
+		============================================ -->
         <link rel="stylesheet" href="style.css">
-		
+        <link rel="stylesheet" href="css/espinozabrand.css">
+
 		<!-- responsive CSS
-		============================================ -->			
+		============================================ -->
         <link rel="stylesheet" href="css/responsive.css">
-		
+
 		<!-- modernizr js
-		============================================ -->		
+		============================================ -->
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
@@ -77,199 +78,12 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-    
+
 	<!-- header start -->
-	<header>
-		<!-- header-area start -->
-		<div id="sticker" class="header-area">
-			<div class="container">
-				<div class="row">
-					<!-- logo start -->
-					<div class="col-md-2 col-lg-3">
-						<div class="logo">
-							<a href="index.html"><img src="img/logo/logo.svg" alt="" /></a>
-						</div>
-					</div>
-					<!-- logo end -->
-					<!-- mainmenu start -->
-					<div class="col-md-10 col-lg-9 ">
-						<div class="header-search">
-							<form action="#">
-								<span class="search-button"><i class="fa fa-search"></i></span>
-								<input type="text" placeholder="search..."/>
-							</form>						
-						</div>
-						<div class="mainmenu">
-							<nav>
-								<ul id="nav">
-									<li><a href="index.html">Homepage</a>
-										<ul class="sub-menu">
-											<li><a href="index-2.html">Homepage Version 2</a></li>
-											<li><a href="index-3.html">Homepage Version 3</a></li>
-											<li><a href="index-4.html">Homepage Version 4</a></li>
-										</ul>
-									</li>
-									<li><a href="#">Features</a></li>
-									<li><a href="blog.html">Blog</a>
-										<ul class="sub-menu">										
-											<li><a href="blog-column-2.html">Blog Column 2</a></li>
-											<li><a href="blog-column-3.html">Blog Column 3</a></li>
-											<li><a href="blog-column-4.html">Blog Column 4</a></li>
-											<li><a href="blog-column-5.html">Blog Column 5</a></li>
-											<li><a href="blog-details.html">Blog Single Item</a></li>
-										</ul>									
-									</li>
-									<li><a href="portfolio-column-3.html">Portfolio</a>
-										<ul class="sub-menu">
-											<li><a href="portfolio-column-2.html">Portfolio Column 2</a></li>
-											<li><a href="portfolio-column-3.html">Portfolio Column 3</a></li>
-											<li><a href="portfolio-column-4.html">Portfolio Column 4</a></li>
-											<li><a href="portfolio-column-5.html">Portfolio Column 5</a></li>
-											<li><a href="portfolio-column-6.html">Portfolio Column 6</a></li>
-										</ul>									
-									</li>
-									<li><a href="shop.html">Shop</a>
-										<div class="mega-menu mega-menu-shop">
-											<span>
-												<a class="mega-menu-title badge-hot" href="#">WOMEN CLOTH</a>
-												<a href="#">casual shirt</a>
-												<a href="#">rikke t-shirt</a>
-												<a href="#">mia top</a>
-												<a href="#">muscle tee</a>
-												<a href="#">seine blouse</a>
-											</span>
-											<span>	
-											  <a class="mega-menu-title" href="#">MEN CLOTH</a>
-												<a class="new-pro" href="#">casual shirt</a>
-												<a href="#">t-shirt</a>
-												<a href="#">zeans</a>
-												<a href="#">trousers/ pants </a>
-												<a href="#">sweamwear</a>
-											</span>
-											<span>
-												<a class="mega-menu-title badge-populer" href="#">WOMEN JEWELRY</a>
-												<a href="#">necklace</a>
-												<a href="#">chunky short striped</a>
-												<a href="#">samhar cuff</a>
-												<a href="#">nail set</a>
-												<a href="#">drop earrings</a>
-											</span>
-											<span>
-												<a class="mega-menu-title" href="#">MEN ACCESSORIES</a>
-												<a href="#">casual shoes</a>
-												<a href="#">bags</a>
-												<a class="new-pro" href="#">watches</a>
-												<a class="#" href="#">sunglasses</a>
-												<a class="#" href="#">tie</a>
-											</span>
-										</div>								
-									</li>
-									<li><a href="#">Pages</a>
-										<div class="mega-menu">
-											<span>
-												<a href="about-us.html">About Us</a>
-												<a href="our-office.html">Our Office</a>
-												<a href="help-center.html">Help Center</a>
-												<a href="testimonial.html">Client & Testimonial </a>
-											</span>
-											<span>											
-												<a href="contact-us.html">Contact Us Page</a>
-												<a href="question-answers.html">Question & Answers</a>
-												<a href="team.html">Meet The Team</a>
-												<a href="team-2.html">Meet The Team 2</a>
-											</span>
-											<span>											
-												<a href="team-3.html">Meet The Team 3</a>
-												<a href="team-member.html">Team Member</a>
-												<a href="pricing.html">Plan and Pricing</a>
-												<a href="service.html">Our Service Page</a>
-											</span>
-											<span>											
-												<a href="product.html">Product Details Page</a>
-												<a href="cart.html">Shopping Cart</a>
-												<a href="checkout.html">checkout page</a>
-											</span>
-										</div>								
-									</li>									
-									<li><a href="contact-us.html">Contact</a></li>
-								</ul>
-							</nav>
-						</div>
-					</div>
-					<!-- mainmenu end -->
-				</div>
-			</div>
-		</div>
-		<!-- header-area end -->
-		<!-- mobile-menu-area start -->
-		<div class="mobile-menu-area">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="mobile-menu">
-							<div class="logo">
-								<a href="index.html"><img src="img/logo/logo.svg" alt="" /></a>
-							</div>
-							<nav id="dropdown">
-								<ul>
-									<li><a href="index.html">Home</a>
-										<ul>
-											<li><a href="index-2.html">Home 2</a></li>
-											<li><a href="index-3.html">Home 3</a></li>
-											<li><a href="index-4.html">Home 4</a></li>
-										</ul>
-									</li>
-									<li><a href="blog.html">blog</a>
-										<ul>										
-											<li><a href="blog-column-2.html">Blog Column 2</a></li>
-											<li><a href="blog-column-3.html">Blog Column 3</a></li>
-											<li><a href="blog-column-4.html">Blog Column 4</a></li>
-											<li><a href="blog-column-5.html">Blog Column 5</a></li>
-											<li><a href="blog-details.html">Blog Single Item</a></li>
-										</ul>
-									</li>
-									<li><a href="shop.html">Shop</a></li>
-									<li><a href="#">Pages</a>
-										<ul>
-											<li><a href="about-us.html">About Us</a></li>
-											<li><a href="our-office.html">Our Office</a></li>
-											<li><a href="help-center.html">Help Center</a></li>
-											<li><a href="testimonial.html">Client & Testimonial </a></li>
-											<li><a href="contact-us.html">Contact Us Page</a></li>
-											<li><a href="question-answers.html">Question & Answers</a></li>
-											<li><a href="team.html">Meet The Team</a></li>
-											<li><a href="team-2.html">Meet The Team 2</a></li>
-											<li><a href="team-3.html">Meet The Team 3</a></li>
-											<li><a href="team-member.html">Team Member</a></li>
-											<li><a href="pricing.html">Plan and Pricing</a></li>
-											<li><a href="service.html">Our Service Page</a></li>
-											<li><a href="product.html">Product Details Page</a></li>
-											<li><a href="cart.html">Shopping Cart</a></li>
-											<li><a href="checkout.html">checkout page</a></li>
-										</ul>
-									</li>
-									<li><a href="portfolio-column-3.html">Portfolio</a>
-										<ul>
-											<li><a href="portfolio-column-2.html">Homepage Version 2</a></li>
-											<li><a href="portfolio-column-3.html">Homepage Version 3</a></li>
-											<li><a href="portfolio-column-4.html">Homepage Version 4</a></li>
-											<li><a href="portfolio-column-5.html">Homepage Version 5</a></li>
-											<li><a href="portfolio-column-6.html">Homepage Version 6</a></li>
-										</ul>									
-									</li>
-									<li><a href="contact.html">Contact</a></li>
-								</ul>
-							</nav>
-						</div>					
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- mobile-menu-area end -->		
-	</header>
+	<?php include('SECTIONS/nav.php')?>
 	<!-- header end -->
 	<!-- breadcrumb-area start -->
-	<div class="breadcrumb-area pages-area">
+	<div class="breadcrumb-area pages-area-product">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 breadcrumb-padding pages-p">
@@ -289,7 +103,7 @@
 		</div>
 	</div>
 	<!-- breadcrumb-area end -->
-	<!-- product-area start-->	
+	<!-- product-area start-->
 	<div class="product-area">
 		<div class="container">
 			<div class="row">
@@ -313,8 +127,8 @@
 						<span>WC-TS-004LG</span>
 						<div class="product-price-full">
 							<span class="p-price-full">$63.00</span>
-							<span class="p-price-eace">each</span>							
-							<span class="p-price-g">$0.52 / g</span>							
+							<span class="p-price-eace">each</span>
+							<span class="p-price-g">$0.52 / g</span>
 						</div>
 						<div class="product-rating-full">
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -332,10 +146,10 @@
 										<ul>
 											<li><a href="#">Light Green</a></li>
 											<li><a href="#">Light Blue</a></li>
-											<li><a href="#">Light Orange</a></li>							
+											<li><a href="#">Light Orange</a></li>
 										</ul>
 									</li>
-								</ul>								
+								</ul>
 							</div>
 							<div class="color-size-list">
 								<h4><strong>Size</strong></h4>
@@ -344,11 +158,11 @@
 										<ul>
 											<li><a href="#">Large</a></li>
 											<li><a href="#">Medium</a></li>
-											<li><a href="#">Small</a></li>							
+											<li><a href="#">Small</a></li>
 										</ul>
 									</li>
-								</ul>								
-							</div>						
+								</ul>
+							</div>
 						</div>
 						<div class="clear"></div>
 						<div class="contact-us-for-more">
@@ -391,7 +205,7 @@
 										<li>Cuffed sleeves</li>
 										<li>100% Cotton</li>
 										<li>Hand wash cold, dry flat</li>
-									</ul>	
+									</ul>
 								</div>
 							</div>
 							<div role="tabpanel" class="tab-pane" id="profile">
@@ -480,7 +294,7 @@
 							</div>
 							<div role="tabpanel" class="tab-pane" id="settings"></div>
 						  </div>
-						</div>					
+						</div>
 					</div>
 				</div>
 			</div>
@@ -515,9 +329,9 @@
 								<span>(7)</span>
 							</div>
 						</div>
-					</div>				
+					</div>
 				</div>
-				<!-- single-features end -->				
+				<!-- single-features end -->
 				<!-- single-features start -->
 				<div class="col-lg-3 col-md-3 col-sm-3">
 					<div class="single-features">
@@ -541,9 +355,9 @@
 								<span>(7)</span>
 							</div>
 						</div>
-					</div>				
+					</div>
 				</div>
-				<!-- single-features end -->				
+				<!-- single-features end -->
 				<!-- single-features start -->
 				<div class="col-lg-3 col-md-3 col-sm-3">
 					<div class="single-features">
@@ -567,9 +381,9 @@
 								<span>(7)</span>
 							</div>
 						</div>
-					</div>				
+					</div>
 				</div>
-				<!-- single-features end -->				
+				<!-- single-features end -->
 				<!-- single-features start -->
 				<div class="col-lg-3 col-md-3 col-sm-3">
 					<div class="single-features">
@@ -593,10 +407,10 @@
 								<span>(7)</span>
 							</div>
 						</div>
-					</div>				
+					</div>
 				</div>
 				<!-- single-features end -->
-			</div>	
+			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<div class="shop-pagination">
@@ -615,10 +429,10 @@
 						</div>
 					</div>
 				</div>
-			</div>			
+			</div>
 		</div>
 	</div>
-	<!-- product-area end-->	
+	<!-- product-area end-->
 
 	<!-- footer start -->
 	<footer>
@@ -646,14 +460,14 @@
 									<span>Address:</span>
 									<span>792 South Park Avenue,<br>
 									Door 6 Wonderland, CA<br>
-									94107, Austrila</span>								
+									94107, Austrila</span>
 								</li>
 								<li>
-									<span>Phone:</span>	
+									<span>Phone:</span>
 									<span>
 										+330 875369227 - Office<br>
 										+330 355563114 - Fax
-									</span>									
+									</span>
 								</li>
 							</ul>
 						</div>
@@ -670,13 +484,13 @@
 									<div class="su-spacer"></div>
 								</li>
 								<li>
-									<span>Follow Us:</span>	
+									<span>Follow Us:</span>
 									<span>
 										<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-linkedin-square"></i></a>
 										<a href="#"><i class="fa fa-google-plus"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
-									</span>									
+									</span>
 								</li>
 							</ul>
 						</div>
@@ -714,66 +528,66 @@
 		<!-- footer-bottom-area end -->
 	</footer>
 	<!-- footer end -->
-	
+
 		<!-- JS -->
-		
+
 		<!-- jquery js -->
         <script src="js/vendor/jquery-1.11.2.min.js"></script>
-		
+
 		<!-- bootstrap js -->
         <script src="js/bootstrap.min.js"></script>
-		
+
 		<!-- owl.carousel.min js -->
         <script src="js/owl.carousel.min.js"></script>
-		
+
 		<!-- meanmenu js -->
         <script src="js/jquery.meanmenu.js"></script>
-		
+
 		<!-- jquery.countdown js -->
         <script src="js/jquery.countdown.min.js"></script>
-		
+
 		<!-- parallax js -->
-        <script src="js/parallax.js"></script>	
+        <script src="js/parallax.js"></script>
 
 		<!-- jquery.collapse js -->
         <script src="js/jquery.collapse.js"></script>
-		
+
 		<!-- jquery.easing js -->
-        <script src="js/jquery.easing.1.3.min.js"></script>	
-		
+        <script src="js/jquery.easing.1.3.min.js"></script>
+
 		<!-- jquery.scrollUp js -->
-        <script src="js/jquery.scrollUp.min.js"></script>	
-		
+        <script src="js/jquery.scrollUp.min.js"></script>
+
 		<!-- knob circle js -->
-        <script src="js/jquery.knob.js"></script>	
-		
+        <script src="js/jquery.knob.js"></script>
+
 		<!-- jquery.appear js -->
-		<script src="js/jquery.appear.js"></script>	
-		
+		<script src="js/jquery.appear.js"></script>
+
 		<!-- jquery.mixitup js -->
 		<script src="js/jquery.mixitup.min.js"></script>
 
 		<!-- fancybox js -->
-		<script src="js/fancybox/jquery.fancybox.pack.js"></script>			
+		<script src="js/fancybox/jquery.fancybox.pack.js"></script>
 
 		<!-- jquery.counterup js -->
         <script src="js/jquery.counterup.min.js"></script>
-        <script src="js/waypoints.min.js"></script>	
+        <script src="js/waypoints.min.js"></script>
 
 		<!-- rs-plugin js -->
-		<script type="text/javascript" src="lib/rs-plugin/js/jquery.themepunch.tools.min.js"></script>   
+		<script type="text/javascript" src="lib/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script type="text/javascript" src="lib/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-		<script src="lib/rs-plugin/rs.home.js"></script>		
-		
+		<script src="lib/rs-plugin/rs.home.js"></script>
+
 		<!-- wow js -->
-        <script src="js/wow.js"></script>		
+        <script src="js/wow.js"></script>
 		<script>
 			new WOW().init();
 		</script>
-		
+
 		<!-- plugins js -->
         <script src="js/plugins.js"></script>
-		
+
 		<!-- main js -->
         <script src="js/main.js"></script>
 

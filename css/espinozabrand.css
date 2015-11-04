@@ -27,3 +27,7 @@
   background: rgba(0, 0, 0, 0) url("../img/shop/shopBG.png") no-repeat scroll center center / cover;
 }
 
+.pages-area-product{
+  background: rgba(0, 0, 0, 0) url("../img/product/product_detailBG.png") no-repeat scroll center center / cover;
+  padding-top: 83px;
+}
