@@ -11,12 +11,7 @@
 					<!-- logo end -->
 					<!-- mainmenu start -->
 					<div class="col-md-10 col-lg-9">
-						<div class="header-search">
-							<form action="#">
-								<span class="search-button"><i class="fa fa-search"></i></span>
-								<input type="text" placeholder="search..."/>
-							</form>
-						</div>
+
 						<div class="mainmenu">
 							<nav>
 								<ul id="nav">
@@ -40,7 +35,7 @@
 					<div class="col-md-12">
 						<div class="mobile-menu">
 							<div class="logo">
-								<a href="index.html"><img src="img/logo/logo.svg" alt="" /></a>
+								<a href="index.php"><img src="img/logo/usacell_2.png" alt="" /></a>
 							</div>
 							<nav id="dropdown">
 								<ul>

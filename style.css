@@ -4214,7 +4214,7 @@ padding-bottom: 40px;}
 .convert-cart input[type=button]:hover,.add-wishlist input[type=button]:hover{background: #00a3ff}
 .convert-cart p{margin-top: 30px;}
 .convert-cart p span {
-  background: #2bcdc1 none repeat scroll 0 0;
+  background: #00a3ff none repeat scroll 0 0;
   border-radius: 8px;
   color: #fff;
   padding: 1px 5px;

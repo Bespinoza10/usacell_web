@@ -31,7 +31,7 @@
 					<div class="breadcrumb-list">
 						<ul class="breadcrumb">
 							<li>You are here: </li>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="#">Pages</a></li>
 							<li>Product Detail Page</li>
 						</ul>
