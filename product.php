@@ -5,72 +5,10 @@
 		============================================ -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Product - Intensy</title>
+        <title>USACELL - Product Details </title>
         <meta name="description" content="">
 
-		<!-- Mobile specific metas
-		============================================ -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-		<!-- Fonts
-		============================================ -->
-		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-		<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700' rel='stylesheet' type='text/css'>
-
-		<!-- Favicon
-		============================================ -->
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
-
-		<!-- CSS  -->
-
-		<!-- Bootstrap CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-
-		<!-- font-awesome CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-
-		<!-- owl.carousel CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/owl.carousel.css">
-
-		<!-- animate CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/animate.css">
-
-		<!-- fancybox CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">
-
-		<!-- meanmenu CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/meanmenu.min.css">
-
-		<!-- RS slider CSS
-		============================================ -->
-		<link rel="stylesheet" type="text/css" href="lib/rs-plugin/css/settings.css" media="screen" />
-
-		<!-- normalize CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/normalize.css">
-
-		<!-- main CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/main.css">
-
-		<!-- style CSS
-		============================================ -->
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="css/espinozabrand.css">
-
-		<!-- responsive CSS
-		============================================ -->
-        <link rel="stylesheet" href="css/responsive.css">
-
-		<!-- modernizr js
-		============================================ -->
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <?php include('SECTIONS/head_css_js.php')?>
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -130,6 +68,17 @@
 							<span class="p-price-eace">each</span>
 							<span class="p-price-g">$0.52 / g</span>
 						</div>
+						<div class="fea-rating">
+							<a href="#"><i class="fa fa-star"></i></a>
+							<a href="#"><i class="fa fa-star"></i></a>
+							<a href="#"><i class="fa fa-star"></i></a>
+							<a href="#"><i class="fa fa-star"></i></a>
+							<a href="#"><i class="fa fa-star"></i></a>
+							<span>(7)</span>
+						</div>
+
+<!--             SWITCH THE CLASS "product-rating-full" TO "fea-rating" -->
+<!--
 						<div class="product-rating-full">
 							<a href="#"><i class="fa fa-star"></i></a>
 							<a href="#"><i class="fa fa-star"></i></a>
@@ -138,6 +87,7 @@
 							<a href="#"><i class="fa fa-star"></i></a>
 							<span>(7)</span>
 						</div>
+-->
 						<div class="color-size">
 							<div class="color-size-list">
 								<h4><strong>Color</strong></h4>
@@ -166,15 +116,14 @@
 						</div>
 						<div class="clear"></div>
 						<div class="contact-us-for-more">
-							<a href="#">Contact us for more information</a>
+							<a href="contact-us.php">Contact us for more information</a>
 						</div>
 						<div class="no-stock">
 							<span>No stock</span>
 						</div>
 						<div class="number-select">
 							<input type="number" step="1" min="0" max="119" name="quantity[113]" value="1" title="Qty" size="4">
-							<input type="button" value="Add to cart"/>
-							<input type="button" value="Add to wishlist"/>
+							<a href="cart.php"><input style="background: #00a3ff" type="button" value="Add to cart"/></a>
 						</div>
 					</div>
 				</div>
@@ -312,9 +261,7 @@
 						<div class="features-img">
 							<a href="#"><img src="img/features/f1.jpg" alt="" /></a>
 							<span>NEW</span>
-							<form action="#">
-								<input type="button" value="Choose options"/>
-							</form>
+
 						</div>
 						<div class="features-info">
 							<h2><a href="#">Women Cloth 1</a></h2>
@@ -338,9 +285,7 @@
 						<div class="features-img">
 							<a href="#"><img src="img/features/f2.jpg" alt="" /></a>
 							<span>NEW</span>
-							<form action="#">
-								<input type="button" value="Choose options"/>
-							</form>
+
 						</div>
 						<div class="features-info">
 							<h2><a href="#">Women Cloth 2</a></h2>
@@ -364,9 +309,7 @@
 						<div class="features-img">
 							<a href="#"><img src="img/features/f3.jpg" alt="" /></a>
 							<span>NEW</span>
-							<form action="#">
-								<input type="button" value="Choose options"/>
-							</form>
+
 						</div>
 						<div class="features-info">
 							<h2><a href="#">Women Cloth 3</a></h2>
@@ -390,9 +333,7 @@
 						<div class="features-img">
 							<a href="#"><img src="img/features/f4.jpg" alt="" /></a>
 							<span>NEW</span>
-							<form action="#">
-								<input type="button" value="Choose options"/>
-							</form>
+
 						</div>
 						<div class="features-info">
 							<h2><a href="#">Women Cloth 4</a></h2>
@@ -411,6 +352,7 @@
 				</div>
 				<!-- single-features end -->
 			</div>
+<!--
 			<div class="row">
 				<div class="col-md-12">
 					<div class="shop-pagination">
@@ -430,103 +372,13 @@
 					</div>
 				</div>
 			</div>
+-->
 		</div>
 	</div>
 	<!-- product-area end-->
 
 	<!-- footer start -->
-	<footer>
-		<!-- footer-top-area start -->
-		<div class="footer-top-area">
-			<div class="container">
-				<div class="row">
-					<!-- newsletter start -->
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div class="newsletter">
-							<h3>Email Newsletters:</h3>
-							<form action="#">
-								<input type="text" placeholder="Email Address"/>
-								<button type="submit"><i class="fa fa-envelope"></i></button>
-								<a href="#">Privacy Policy</a>
-							</form>
-						</div>
-					</div>
-					<!-- newsletter end -->
-					<!-- footer-contact start -->
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div class="footer-contact">
-							<ul>
-								<li>
-									<span>Address:</span>
-									<span>792 South Park Avenue,<br>
-									Door 6 Wonderland, CA<br>
-									94107, Austrila</span>
-								</li>
-								<li>
-									<span>Phone:</span>
-									<span>
-										+330 875369227 - Office<br>
-										+330 355563114 - Fax
-									</span>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<!-- footer-contact end -->
-					<!-- footer-contact start -->
-					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-						<div class="footer-contact">
-							<ul>
-								<li class="cc-space">
-									<span>Email:</span>
-									<span><a href="#">support@sitename.com</a> <br />
-									<a href="#">info@sitename.com</a></span>
-									<div class="su-spacer"></div>
-								</li>
-								<li>
-									<span>Follow Us:</span>
-									<span>
-										<a href="#"><i class="fa fa-facebook"></i></a>
-										<a href="#"><i class="fa fa-linkedin-square"></i></a>
-										<a href="#"><i class="fa fa-google-plus"></i></a>
-										<a href="#"><i class="fa fa-twitter"></i></a>
-									</span>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<!-- footer-contact end -->
-				</div>
-			</div>
-		</div>
-		<!-- footer-top-area end -->
-		<!-- footer-bottom-area start -->
-		<div class="footer-bottom-area">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 col-sm-12 col-md-6">
-						<div class="copyright">
-							<p>COPYRIGHT © 2015 ALL RIGHT RESERVED BY <a href="#" target="_blank">BootExperts</a></p>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-12 col-md-6">
-						<div class="footer-menu">
-							<nav>
-								<ul>
-									<li><a href="#">HOME</a></li>
-									<li><a href="#">BLOG</a></li>
-									<li><a href="#">PORTFOLIO</a></li>
-									<li><a href="#">SHOP</a></li>
-									<li><a href="#">CONTACT</a></li>
-								</ul>
-							</nav>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- footer-bottom-area end -->
-	</footer>
+	<?php include('SECTIONS/footer.php')?>
 	<!-- footer end -->
 
 		<!-- JS -->
