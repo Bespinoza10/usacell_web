@@ -5,7 +5,7 @@
 				<!-- SLIDE  1-->
 					<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off"  data-title="Slide1">
 						<!-- MAIN IMAGE -->
-						<img src="img/slider/index.php_SLider/slider2.png"  alt="bg"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						<img src="img/slider/slider-1/slider2.png"  alt="bg"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 						<!-- LAYERS -->
 
 						<!-- LAYER NR. 1 -->
@@ -77,7 +77,7 @@
 					<!-- SLIDE  2-->
 					<li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off"  data-title="Slide2">
 						<!-- MAIN IMAGE -->
-						<img src="img/slider/index.php_SLider/slider3.png"  alt="bg"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						<img src="img/slider/slider-2/slider3.png"  alt="bg"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 						<!-- LAYERS -->
 
 						<!-- LAYER NR. 1 -->
@@ -131,7 +131,7 @@
 					<!-- SLIDE  3-->
 					<li data-transition="random" data-slotamount="7" data-masterspeed="300"   data-saveperformance="off"  data-title="Slide3">
 						<!-- MAIN IMAGE -->
-						<img src="img/slider/index.php_SLider/slider4.png"  alt="bg"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						<img src="img/slider/slider-3/slider4.png"  alt="bg"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 						<!-- LAYERS -->
 
 						<!-- LAYER NR. 1 -->
