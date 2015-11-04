@@ -10,11 +10,11 @@
     					<ul>
     						<li>
     							<span>Address:</span>
-    							<span>818 Union Street, Shelbyville, TN 37160</span>
+    							<span class="blue-text">818 Union Street, Shelbyville, TN 37160</span>
     						</li>
     						<li>
     							<span>Phone:</span>
-    							<span>
+    							<span class="blue-text">
     								931-607-1051 - Office<br>
     							</span>
     						</li>

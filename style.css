@@ -931,8 +931,8 @@ color: #ffffff;padding:160px 0}
 /*------------------------------
 13.1 footer-top-area
 --------------------------------*/
-footer{background-color: #00a3ff;
-color: #e6e3e3;}
+footer{background-color: #000;
+color: #fff;}
 .footer-top-area {
   padding: 100px 0;
 }
@@ -992,9 +992,9 @@ padding: 0 20px;width: 100%;}
 .footer-contact ul li span a:hover{text-decoration: underline;}
 .footer-contact ul li span a i {
   background: transparent none repeat scroll 0 0;
-  border: 2px solid #FF963D;
+  border: 2px solid #00a3ff;
   border-radius: 0;
-  color: #FF963D;
+  color: #00a3ff;
   font-size: 14px;
   height: 30px;
   line-height: 14px;
@@ -1020,7 +1020,7 @@ padding: 0 20px;width: 100%;}
   margin: 0;
 }
 .copyright p a {
-  color: #FF963D;
+  color: #00a3ff;
 }
 .copyright p a:hover{text-decoration:underline}
 .footer-menu{}
@@ -4204,14 +4204,14 @@ margin-left: 5px;}
 margin-top: 30px;
 padding-bottom: 40px;}
 .convert-cart input[type="button"] {
-  background: #2bcdc1 none repeat scroll 0 0;
+  background: #00a3ff none repeat scroll 0 0;
   border: medium none;
   color: #fff;
   font-size: 15px;
   padding: 6px 15px;
   text-transform: uppercase;
 }
-.convert-cart input[type=button]:hover,.add-wishlist input[type=button]:hover{background: #28BFB4}
+.convert-cart input[type=button]:hover,.add-wishlist input[type=button]:hover{background: #00a3ff}
 .convert-cart p{margin-top: 30px;}
 .convert-cart p span {
   background: #2bcdc1 none repeat scroll 0 0;
