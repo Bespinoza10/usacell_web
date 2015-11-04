@@ -9,7 +9,7 @@
 
 		<!-- Favicon
 		============================================ -->
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="img/usacell_favicon.png">
 
 		<!-- CSS  -->
 

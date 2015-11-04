@@ -5,7 +5,7 @@
 		============================================ -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Checkout - Intensy</title>
+        <title>USACELL - Checkout</title>
         <meta name="description" content="">
 
         <?php include('SECTIONS/head_css_js.php')?>
@@ -32,7 +32,6 @@
 						<ul class="breadcrumb">
 							<li>You are here: </li>
 							<li><a href="index.php">Home</a></li>
-							<li><a href="#">Pages</a></li>
 							<li>Checkout</li>
 						</ul>
 					</div>

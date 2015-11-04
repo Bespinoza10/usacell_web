@@ -218,7 +218,7 @@ z-index: 9999;}
 }
 .mainmenu ul#nav> li> a{position:relative}
 .mainmenu ul#nav> li> a:before{
-border-color: #2bcdc1 transparent transparent;
+border-color: #00a3ff transparent transparent;
 border-image: none;
 border-style: solid;
 border-width: 5px;
@@ -1003,7 +1003,7 @@ padding: 0 20px;width: 100%;}
   text-align: center;
   width: 30px;
 }
-.footer-contact ul li span a i:hover{border-color:#535353;color:#535353}
+.footer-contact ul li span a i:hover{border-color:#FF963D;color:#FF963D}
 .cc-space {
   padding-bottom: 20px;
 }
@@ -3992,7 +3992,7 @@ display: block;
 font-weight: 700;
 padding: 10px 15px;
 text-decoration: none;}
-ul.color-s-menu li a:hover{background:#2bcdc1;color:#fff}
+ul.color-s-menu li a:hover{background:#00a3ff;color:#fff}
 ul.color-s-menu li ul{opacity: 0;
 position: absolute;
 top: 130%;
@@ -4997,7 +4997,7 @@ top: 0;}
   display: none;
 }
 .mean-container .mean-nav ul li a:hover {
-  color: #2bcdc1;
+  color: #00a3ff;
   background: none;
 }
 .mean-container a.meanmenu-reveal span {
@@ -5005,10 +5005,9 @@ top: 0;}
 }
 .mobile-menu-area {
   background: #fff none repeat scroll 0 0;
-  border-top: 3px solid #2bcdc1;
 }
 .mean-container .mean-nav ul li a {
-  background: #444;
+  background: #00a3ff;
   color: #fff;
   display: block;
 }
@@ -5020,7 +5019,7 @@ top: 0;}
   background: none;
 }
 .mean-container .mean-nav ul li {
-  background: #444;
+  background: #fff;
 }
 .mean-container .mean-nav ul li li a {
   color: #fff;
@@ -5031,10 +5030,10 @@ top: 0;}
   color: #444;
 }
 .meanmenu-reveal.meanclose:hover {
-  color: #2bcdc1 !important;
+  color: #00a3ff !important;
 }
 .mean-container a.meanmenu-reveal:hover span {
-  background: #2bcdc1;
+  background: #00a3ff;
 }
 .home-2 .mobile-menu-area {
   border-top: 3px solid #EB3B60;
@@ -5052,10 +5051,10 @@ top: 0;}
   border-top: 3px solid #23C6EC;
 }
 .home-3 .mean-container a.meanmenu-reveal:hover span {
-  background: #23C6EC;
+  background: #00a3ff;
 }
 .home-3  .mean-container .mean-nav ul li a:hover {
-  color: #23C6EC;
+  color: #00a3ff;
 }
 .home-3 .meanmenu-reveal.meanclose:hover {
   color: #23C6EC !important;

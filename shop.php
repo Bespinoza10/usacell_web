@@ -5,7 +5,7 @@
 		============================================ -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Shop - Intensy</title>
+        <title>USACELL - Shop</title>
         <meta name="description" content="">
 
         <?php include('SECTIONS/head_css_js.php')?>

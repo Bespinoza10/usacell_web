@@ -35,7 +35,7 @@
 					<div class="col-md-12">
 						<div class="mobile-menu">
 							<div class="logo">
-								<a href="index.php"><img src="img/logo/usacell_2.png" alt="" /></a>
+								<a href="index.php"><img style="max-width: 100px;" src="img/logo/usacell_2.png" alt="" /></a>
 							</div>
 							<nav id="dropdown">
 								<ul>

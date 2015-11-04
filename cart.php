@@ -5,7 +5,7 @@
 		============================================ -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Shopping Cart - Intensy</title>
+        <title>USACELL - Shopping Cart</title>
         <meta name="description" content="">
 
         <?php include('SECTIONS/head_css_js.php')?>
@@ -32,7 +32,6 @@
 						<ul class="breadcrumb">
 							<li>You are here: </li>
 							<li><a href="index.html">Home</a></li>
-							<li><a href="#">Pages</a></li>
 							<li>Shopping Cart</li>
 						</ul>
 					</div>
@@ -158,7 +157,7 @@
 				<div class="col-lg-12 col-md-12">
 					<div class="convert-cart">
 						<div class="wishlist-cart">
-							<input type="button" value="Proceed to checkout" />
+							<a href="checkout.php"><input type="button" value="Proceed to checkout" /></a>
 						</div>
 					</div>
 				</div>
