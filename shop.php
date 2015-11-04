@@ -110,13 +110,133 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/1.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/1.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
+							<h3><span>$58.00</span> each</h3>
+							<div class="fea-rating">
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<span>(7)</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- single-shop end -->
+				<!-- single-shop start -->
+				<div class="col-lg-3 col-md-3 col-sm-4">
+					<div class="single-features single-shop">
+						<div class="features-img shop-img">
+							<a href="product.php"><img src="img/shop/2.jpg" alt="" /></a>
+							<span>NEW</span>
+
+						</div>
+						<div class="features-info">
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
+							<h3><span>$58.00</span> each</h3>
+							<div class="fea-rating">
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<span>(7)</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- single-shop end -->
+				<!-- single-shop start -->
+				<div class="col-lg-3 col-md-3 col-sm-4">
+					<div class="single-features single-shop">
+						<div class="features-img shop-img">
+							<a href="product.php"><img src="img/shop/3.jpg" alt="" /></a>
+							<span>NEW</span>
+
+						</div>
+						<div class="features-info">
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
+							<h3><span>$58.00</span> each</h3>
+							<div class="fea-rating">
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<span>(7)</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- single-shop end -->
+				<!-- single-shop start -->
+				<div class="col-lg-3 col-md-3 col-sm-4">
+					<div class="single-features single-shop">
+						<div class="features-img shop-img">
+							<a href="product.php"><img src="img/shop/4.jpg" alt="" /></a>
+							<span>NEW</span>
+
+						</div>
+						<div class="features-info">
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
+							<h3><span>$58.00</span> each</h3>
+							<div class="fea-rating">
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<span>(7)</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- single-shop end -->
+				<!-- single-shop start -->
+				<div class="col-lg-3 col-md-3 col-sm-4">
+					<div class="single-features single-shop">
+						<div class="features-img shop-img">
+							<a href="product.php"><img src="img/shop/5.jpg" alt="" /></a>
+							<span>NEW</span>
+
+						</div>
+						<div class="features-info">
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
+							<h3><span>$58.00</span> each</h3>
+							<div class="fea-rating">
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<a><i class="fa fa-star"></i></a>
+								<span>(7)</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- single-shop end -->
+				<!-- single-shop start -->
+				<div class="col-lg-3 col-md-3 col-sm-4">
+					<div class="single-features single-shop">
+						<div class="features-img shop-img">
+							<a href="product.php"><img src="img/shop/6.jpg" alt="" /></a>
+							<span>NEW</span>
+
+						</div>
+						<div class="features-info">
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -134,13 +254,13 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/2.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/7.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -158,13 +278,13 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/3.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/8.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -182,13 +302,13 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/4.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/9.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -206,13 +326,13 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/5.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/10.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -230,13 +350,13 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/6.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/11.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -254,133 +374,13 @@
 				<div class="col-lg-3 col-md-3 col-sm-4">
 					<div class="single-features single-shop">
 						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/7.jpg" alt="" /></a>
+							<a href="product.php"><img src="img/shop/12.jpg" alt="" /></a>
 							<span>NEW</span>
 
 						</div>
 						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
-							<h3><span>$58.00</span> each</h3>
-							<div class="fea-rating">
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<span>(7)</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- single-shop end -->
-				<!-- single-shop start -->
-				<div class="col-lg-3 col-md-3 col-sm-4">
-					<div class="single-features single-shop">
-						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/8.jpg" alt="" /></a>
-							<span>NEW</span>
-
-						</div>
-						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
-							<h3><span>$58.00</span> each</h3>
-							<div class="fea-rating">
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<span>(7)</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- single-shop end -->
-				<!-- single-shop start -->
-				<div class="col-lg-3 col-md-3 col-sm-4">
-					<div class="single-features single-shop">
-						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/9.jpg" alt="" /></a>
-							<span>NEW</span>
-
-						</div>
-						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
-							<h3><span>$58.00</span> each</h3>
-							<div class="fea-rating">
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<span>(7)</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- single-shop end -->
-				<!-- single-shop start -->
-				<div class="col-lg-3 col-md-3 col-sm-4">
-					<div class="single-features single-shop">
-						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/10.jpg" alt="" /></a>
-							<span>NEW</span>
-
-						</div>
-						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
-							<h3><span>$58.00</span> each</h3>
-							<div class="fea-rating">
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<span>(7)</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- single-shop end -->
-				<!-- single-shop start -->
-				<div class="col-lg-3 col-md-3 col-sm-4">
-					<div class="single-features single-shop">
-						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/11.jpg" alt="" /></a>
-							<span>NEW</span>
-
-						</div>
-						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
-							<h3><span>$58.00</span> each</h3>
-							<div class="fea-rating">
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<a href="#"><i class="fa fa-star"></i></a>
-								<span>(7)</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- single-shop end -->
-				<!-- single-shop start -->
-				<div class="col-lg-3 col-md-3 col-sm-4">
-					<div class="single-features single-shop">
-						<div class="features-img shop-img">
-							<a href="#"><img src="img/shop/12.jpg" alt="" /></a>
-							<span>NEW</span>
-
-						</div>
-						<div class="features-info">
-							<h2><a href="#">Iphone 1</a></h2>
-							<p><a href="#">WC-AB-001</a></p>
+							<h2><a href="product.php">Iphone 1</a></h2>
+							<p><a>WC-AB-001</a></p>
 							<h3><span>$58.00</span> each</h3>
 							<div class="fea-rating">
 								<a href="#"><i class="fa fa-star"></i></a>
